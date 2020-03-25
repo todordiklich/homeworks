@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\08. ValueTypes-and-Reference-Types\bin\Debug\netcoreapp3.1\08. ValueTypes-and-Reference-Types.exe
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\08. ValueTypes-and-Reference-Types\bin\Debug\netcoreapp3.1\08. ValueTypes-and-Reference-Types.deps.json
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\08. ValueTypes-and-Reference-Types\bin\Debug\netcoreapp3.1\08. ValueTypes-and-Reference-Types.runtimeconfig.json
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\08. ValueTypes-and-Reference-Types\bin\Debug\netcoreapp3.1\08. ValueTypes-and-Reference-Types.runtimeconfig.dev.json
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\08. ValueTypes-and-Reference-Types\bin\Debug\netcoreapp3.1\08. ValueTypes-and-Reference-Types.dll
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\08. ValueTypes-and-Reference-Types\bin\Debug\netcoreapp3.1\08. ValueTypes-and-Reference-Types.pdb
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\08. ValueTypes-and-Reference-Types\obj\Debug\netcoreapp3.1\08. ValueTypes-and-Reference-Types.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\08. ValueTypes-and-Reference-Types\obj\Debug\netcoreapp3.1\08. ValueTypes-and-Reference-Types.AssemblyInfo.cs
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\08. ValueTypes-and-Reference-Types\obj\Debug\netcoreapp3.1\08. ValueTypes-and-Reference-Types.dll
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\08. ValueTypes-and-Reference-Types\obj\Debug\netcoreapp3.1\08. ValueTypes-and-Reference-Types.pdb

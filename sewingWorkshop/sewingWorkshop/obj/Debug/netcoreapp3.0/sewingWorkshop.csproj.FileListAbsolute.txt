@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\sewingWorkshop\sewingWorkshop\bin\Debug\netcoreapp3.0\sewingWorkshop.exe
+C:\Users\User\source\repos\sewingWorkshop\sewingWorkshop\bin\Debug\netcoreapp3.0\sewingWorkshop.deps.json
+C:\Users\User\source\repos\sewingWorkshop\sewingWorkshop\bin\Debug\netcoreapp3.0\sewingWorkshop.runtimeconfig.json
+C:\Users\User\source\repos\sewingWorkshop\sewingWorkshop\bin\Debug\netcoreapp3.0\sewingWorkshop.runtimeconfig.dev.json
+C:\Users\User\source\repos\sewingWorkshop\sewingWorkshop\bin\Debug\netcoreapp3.0\sewingWorkshop.dll
+C:\Users\User\source\repos\sewingWorkshop\sewingWorkshop\bin\Debug\netcoreapp3.0\sewingWorkshop.pdb
+C:\Users\User\source\repos\sewingWorkshop\sewingWorkshop\obj\Debug\netcoreapp3.0\sewingWorkshop.csprojAssemblyReference.cache
+C:\Users\User\source\repos\sewingWorkshop\sewingWorkshop\obj\Debug\netcoreapp3.0\sewingWorkshop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\sewingWorkshop\sewingWorkshop\obj\Debug\netcoreapp3.0\sewingWorkshop.AssemblyInfo.cs
+C:\Users\User\source\repos\sewingWorkshop\sewingWorkshop\obj\Debug\netcoreapp3.0\sewingWorkshop.dll
+C:\Users\User\source\repos\sewingWorkshop\sewingWorkshop\obj\Debug\netcoreapp3.0\sewingWorkshop.pdb

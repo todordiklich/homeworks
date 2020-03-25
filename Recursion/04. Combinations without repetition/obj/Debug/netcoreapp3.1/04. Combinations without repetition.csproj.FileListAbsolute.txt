@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Recursion\04. Combinations without repetition\bin\Debug\netcoreapp3.1\04. Combinations without repetition.exe
+C:\Users\User\source\repos\Recursion\04. Combinations without repetition\bin\Debug\netcoreapp3.1\04. Combinations without repetition.deps.json
+C:\Users\User\source\repos\Recursion\04. Combinations without repetition\bin\Debug\netcoreapp3.1\04. Combinations without repetition.runtimeconfig.json
+C:\Users\User\source\repos\Recursion\04. Combinations without repetition\bin\Debug\netcoreapp3.1\04. Combinations without repetition.runtimeconfig.dev.json
+C:\Users\User\source\repos\Recursion\04. Combinations without repetition\bin\Debug\netcoreapp3.1\04. Combinations without repetition.dll
+C:\Users\User\source\repos\Recursion\04. Combinations without repetition\bin\Debug\netcoreapp3.1\04. Combinations without repetition.pdb
+C:\Users\User\source\repos\Recursion\04. Combinations without repetition\obj\Debug\netcoreapp3.1\04. Combinations without repetition.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Recursion\04. Combinations without repetition\obj\Debug\netcoreapp3.1\04. Combinations without repetition.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Recursion\04. Combinations without repetition\obj\Debug\netcoreapp3.1\04. Combinations without repetition.AssemblyInfo.cs
+C:\Users\User\source\repos\Recursion\04. Combinations without repetition\obj\Debug\netcoreapp3.1\04. Combinations without repetition.dll
+C:\Users\User\source\repos\Recursion\04. Combinations without repetition\obj\Debug\netcoreapp3.1\04. Combinations without repetition.pdb

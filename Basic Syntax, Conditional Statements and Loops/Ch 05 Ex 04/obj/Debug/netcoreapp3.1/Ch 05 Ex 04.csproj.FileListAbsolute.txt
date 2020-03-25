@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\Ch 05 Ex 04\bin\Debug\netcoreapp3.1\Ch 05 Ex 04.exe
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\Ch 05 Ex 04\bin\Debug\netcoreapp3.1\Ch 05 Ex 04.deps.json
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\Ch 05 Ex 04\bin\Debug\netcoreapp3.1\Ch 05 Ex 04.runtimeconfig.json
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\Ch 05 Ex 04\bin\Debug\netcoreapp3.1\Ch 05 Ex 04.runtimeconfig.dev.json
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\Ch 05 Ex 04\bin\Debug\netcoreapp3.1\Ch 05 Ex 04.dll
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\Ch 05 Ex 04\bin\Debug\netcoreapp3.1\Ch 05 Ex 04.pdb
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\Ch 05 Ex 04\obj\Debug\netcoreapp3.1\Ch 05 Ex 04.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\Ch 05 Ex 04\obj\Debug\netcoreapp3.1\Ch 05 Ex 04.AssemblyInfo.cs
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\Ch 05 Ex 04\obj\Debug\netcoreapp3.1\Ch 05 Ex 04.dll
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\Ch 05 Ex 04\obj\Debug\netcoreapp3.1\Ch 05 Ex 04.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\netcoreapp3.1\1. Winning Ticket.exe
+C:\Users\User\source\repos\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\netcoreapp3.1\1. Winning Ticket.deps.json
+C:\Users\User\source\repos\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\netcoreapp3.1\1. Winning Ticket.runtimeconfig.json
+C:\Users\User\source\repos\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\netcoreapp3.1\1. Winning Ticket.runtimeconfig.dev.json
+C:\Users\User\source\repos\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\netcoreapp3.1\1. Winning Ticket.dll
+C:\Users\User\source\repos\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\netcoreapp3.1\1. Winning Ticket.pdb
+C:\Users\User\source\repos\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\netcoreapp3.1\1. Winning Ticket.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\netcoreapp3.1\1. Winning Ticket.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\netcoreapp3.1\1. Winning Ticket.AssemblyInfo.cs
+C:\Users\User\source\repos\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\netcoreapp3.1\1. Winning Ticket.dll
+C:\Users\User\source\repos\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\netcoreapp3.1\1. Winning Ticket.pdb

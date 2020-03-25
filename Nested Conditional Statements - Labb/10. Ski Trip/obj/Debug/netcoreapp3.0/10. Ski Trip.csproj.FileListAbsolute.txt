@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Nested Conditional Statements - Labb\10. Ski Trip\bin\Debug\netcoreapp3.0\10. Ski Trip.exe
+C:\Users\User\source\repos\Nested Conditional Statements - Labb\10. Ski Trip\bin\Debug\netcoreapp3.0\10. Ski Trip.deps.json
+C:\Users\User\source\repos\Nested Conditional Statements - Labb\10. Ski Trip\bin\Debug\netcoreapp3.0\10. Ski Trip.runtimeconfig.json
+C:\Users\User\source\repos\Nested Conditional Statements - Labb\10. Ski Trip\bin\Debug\netcoreapp3.0\10. Ski Trip.runtimeconfig.dev.json
+C:\Users\User\source\repos\Nested Conditional Statements - Labb\10. Ski Trip\bin\Debug\netcoreapp3.0\10. Ski Trip.dll
+C:\Users\User\source\repos\Nested Conditional Statements - Labb\10. Ski Trip\bin\Debug\netcoreapp3.0\10. Ski Trip.pdb
+C:\Users\User\source\repos\Nested Conditional Statements - Labb\10. Ski Trip\obj\Debug\netcoreapp3.0\10. Ski Trip.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Nested Conditional Statements - Labb\10. Ski Trip\obj\Debug\netcoreapp3.0\10. Ski Trip.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Nested Conditional Statements - Labb\10. Ski Trip\obj\Debug\netcoreapp3.0\10. Ski Trip.AssemblyInfo.cs
+C:\Users\User\source\repos\Nested Conditional Statements - Labb\10. Ski Trip\obj\Debug\netcoreapp3.0\10. Ski Trip.dll
+C:\Users\User\source\repos\Nested Conditional Statements - Labb\10. Ski Trip\obj\Debug\netcoreapp3.0\10. Ski Trip.pdb

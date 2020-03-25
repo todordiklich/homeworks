@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Recursion\Generatin 0-1 vector\bin\Debug\netcoreapp3.1\Generatin 0-1 vector.exe
+C:\Users\User\source\repos\Recursion\Generatin 0-1 vector\bin\Debug\netcoreapp3.1\Generatin 0-1 vector.deps.json
+C:\Users\User\source\repos\Recursion\Generatin 0-1 vector\bin\Debug\netcoreapp3.1\Generatin 0-1 vector.runtimeconfig.json
+C:\Users\User\source\repos\Recursion\Generatin 0-1 vector\bin\Debug\netcoreapp3.1\Generatin 0-1 vector.runtimeconfig.dev.json
+C:\Users\User\source\repos\Recursion\Generatin 0-1 vector\bin\Debug\netcoreapp3.1\Generatin 0-1 vector.dll
+C:\Users\User\source\repos\Recursion\Generatin 0-1 vector\bin\Debug\netcoreapp3.1\Generatin 0-1 vector.pdb
+C:\Users\User\source\repos\Recursion\Generatin 0-1 vector\obj\Debug\netcoreapp3.1\Generatin 0-1 vector.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Recursion\Generatin 0-1 vector\obj\Debug\netcoreapp3.1\Generatin 0-1 vector.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Recursion\Generatin 0-1 vector\obj\Debug\netcoreapp3.1\Generatin 0-1 vector.AssemblyInfo.cs
+C:\Users\User\source\repos\Recursion\Generatin 0-1 vector\obj\Debug\netcoreapp3.1\Generatin 0-1 vector.dll
+C:\Users\User\source\repos\Recursion\Generatin 0-1 vector\obj\Debug\netcoreapp3.1\Generatin 0-1 vector.pdb

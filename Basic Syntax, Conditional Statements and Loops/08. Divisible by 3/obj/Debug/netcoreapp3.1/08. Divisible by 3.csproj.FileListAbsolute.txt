@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.exe
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.deps.json
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.runtimeconfig.json
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.runtimeconfig.dev.json
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.dll
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.pdb
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.AssemblyInfo.cs
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.dll
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.pdb

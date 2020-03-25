@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\For-Loop\04. Vowels Sum\bin\Debug\netcoreapp3.0\04. Vowels Sum.exe
+C:\Users\User\source\repos\For-Loop\04. Vowels Sum\bin\Debug\netcoreapp3.0\04. Vowels Sum.deps.json
+C:\Users\User\source\repos\For-Loop\04. Vowels Sum\bin\Debug\netcoreapp3.0\04. Vowels Sum.runtimeconfig.json
+C:\Users\User\source\repos\For-Loop\04. Vowels Sum\bin\Debug\netcoreapp3.0\04. Vowels Sum.runtimeconfig.dev.json
+C:\Users\User\source\repos\For-Loop\04. Vowels Sum\bin\Debug\netcoreapp3.0\04. Vowels Sum.dll
+C:\Users\User\source\repos\For-Loop\04. Vowels Sum\bin\Debug\netcoreapp3.0\04. Vowels Sum.pdb
+C:\Users\User\source\repos\For-Loop\04. Vowels Sum\obj\Debug\netcoreapp3.0\04. Vowels Sum.csprojAssemblyReference.cache
+C:\Users\User\source\repos\For-Loop\04. Vowels Sum\obj\Debug\netcoreapp3.0\04. Vowels Sum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\For-Loop\04. Vowels Sum\obj\Debug\netcoreapp3.0\04. Vowels Sum.AssemblyInfo.cs
+C:\Users\User\source\repos\For-Loop\04. Vowels Sum\obj\Debug\netcoreapp3.0\04. Vowels Sum.dll
+C:\Users\User\source\repos\For-Loop\04. Vowels Sum\obj\Debug\netcoreapp3.0\04. Vowels Sum.pdb

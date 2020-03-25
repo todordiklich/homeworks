@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ConditionalStatements\Unit Converter\bin\Debug\netcoreapp3.0\Unit Converter.exe
+C:\Users\User\source\repos\ConditionalStatements\Unit Converter\bin\Debug\netcoreapp3.0\Unit Converter.deps.json
+C:\Users\User\source\repos\ConditionalStatements\Unit Converter\bin\Debug\netcoreapp3.0\Unit Converter.runtimeconfig.json
+C:\Users\User\source\repos\ConditionalStatements\Unit Converter\bin\Debug\netcoreapp3.0\Unit Converter.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConditionalStatements\Unit Converter\bin\Debug\netcoreapp3.0\Unit Converter.dll
+C:\Users\User\source\repos\ConditionalStatements\Unit Converter\bin\Debug\netcoreapp3.0\Unit Converter.pdb
+C:\Users\User\source\repos\ConditionalStatements\Unit Converter\obj\Debug\netcoreapp3.0\Unit Converter.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConditionalStatements\Unit Converter\obj\Debug\netcoreapp3.0\Unit Converter.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConditionalStatements\Unit Converter\obj\Debug\netcoreapp3.0\Unit Converter.AssemblyInfo.cs
+C:\Users\User\source\repos\ConditionalStatements\Unit Converter\obj\Debug\netcoreapp3.0\Unit Converter.dll
+C:\Users\User\source\repos\ConditionalStatements\Unit Converter\obj\Debug\netcoreapp3.0\Unit Converter.pdb

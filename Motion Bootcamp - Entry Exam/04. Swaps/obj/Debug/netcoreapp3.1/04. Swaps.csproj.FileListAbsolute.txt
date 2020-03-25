@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Motion Bootcamp - Entry Exam\04. Swaps\bin\Debug\netcoreapp3.1\04. Swaps.exe
+C:\Users\User\source\repos\Motion Bootcamp - Entry Exam\04. Swaps\bin\Debug\netcoreapp3.1\04. Swaps.deps.json
+C:\Users\User\source\repos\Motion Bootcamp - Entry Exam\04. Swaps\bin\Debug\netcoreapp3.1\04. Swaps.runtimeconfig.json
+C:\Users\User\source\repos\Motion Bootcamp - Entry Exam\04. Swaps\bin\Debug\netcoreapp3.1\04. Swaps.runtimeconfig.dev.json
+C:\Users\User\source\repos\Motion Bootcamp - Entry Exam\04. Swaps\bin\Debug\netcoreapp3.1\04. Swaps.dll
+C:\Users\User\source\repos\Motion Bootcamp - Entry Exam\04. Swaps\bin\Debug\netcoreapp3.1\04. Swaps.pdb
+C:\Users\User\source\repos\Motion Bootcamp - Entry Exam\04. Swaps\obj\Debug\netcoreapp3.1\04. Swaps.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Motion Bootcamp - Entry Exam\04. Swaps\obj\Debug\netcoreapp3.1\04. Swaps.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Motion Bootcamp - Entry Exam\04. Swaps\obj\Debug\netcoreapp3.1\04. Swaps.AssemblyInfo.cs
+C:\Users\User\source\repos\Motion Bootcamp - Entry Exam\04. Swaps\obj\Debug\netcoreapp3.1\04. Swaps.dll
+C:\Users\User\source\repos\Motion Bootcamp - Entry Exam\04. Swaps\obj\Debug\netcoreapp3.1\04. Swaps.pdb

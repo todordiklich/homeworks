@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Conditional-Statements\EvenOdd\bin\Debug\netcoreapp3.0\EvenOdd.exe
+C:\Users\User\source\repos\Conditional-Statements\EvenOdd\bin\Debug\netcoreapp3.0\EvenOdd.deps.json
+C:\Users\User\source\repos\Conditional-Statements\EvenOdd\bin\Debug\netcoreapp3.0\EvenOdd.runtimeconfig.json
+C:\Users\User\source\repos\Conditional-Statements\EvenOdd\bin\Debug\netcoreapp3.0\EvenOdd.runtimeconfig.dev.json
+C:\Users\User\source\repos\Conditional-Statements\EvenOdd\bin\Debug\netcoreapp3.0\EvenOdd.dll
+C:\Users\User\source\repos\Conditional-Statements\EvenOdd\bin\Debug\netcoreapp3.0\EvenOdd.pdb
+C:\Users\User\source\repos\Conditional-Statements\EvenOdd\obj\Debug\netcoreapp3.0\EvenOdd.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Conditional-Statements\EvenOdd\obj\Debug\netcoreapp3.0\EvenOdd.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Conditional-Statements\EvenOdd\obj\Debug\netcoreapp3.0\EvenOdd.AssemblyInfo.cs
+C:\Users\User\source\repos\Conditional-Statements\EvenOdd\obj\Debug\netcoreapp3.0\EvenOdd.dll
+C:\Users\User\source\repos\Conditional-Statements\EvenOdd\obj\Debug\netcoreapp3.0\EvenOdd.pdb

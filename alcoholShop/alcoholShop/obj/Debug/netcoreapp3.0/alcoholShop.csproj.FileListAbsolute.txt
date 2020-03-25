@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\alcoholShop\alcoholShop\bin\Debug\netcoreapp3.0\alcoholShop.exe
+C:\Users\User\source\repos\alcoholShop\alcoholShop\bin\Debug\netcoreapp3.0\alcoholShop.deps.json
+C:\Users\User\source\repos\alcoholShop\alcoholShop\bin\Debug\netcoreapp3.0\alcoholShop.runtimeconfig.json
+C:\Users\User\source\repos\alcoholShop\alcoholShop\bin\Debug\netcoreapp3.0\alcoholShop.runtimeconfig.dev.json
+C:\Users\User\source\repos\alcoholShop\alcoholShop\bin\Debug\netcoreapp3.0\alcoholShop.dll
+C:\Users\User\source\repos\alcoholShop\alcoholShop\bin\Debug\netcoreapp3.0\alcoholShop.pdb
+C:\Users\User\source\repos\alcoholShop\alcoholShop\obj\Debug\netcoreapp3.0\alcoholShop.csprojAssemblyReference.cache
+C:\Users\User\source\repos\alcoholShop\alcoholShop\obj\Debug\netcoreapp3.0\alcoholShop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\alcoholShop\alcoholShop\obj\Debug\netcoreapp3.0\alcoholShop.AssemblyInfo.cs
+C:\Users\User\source\repos\alcoholShop\alcoholShop\obj\Debug\netcoreapp3.0\alcoholShop.dll
+C:\Users\User\source\repos\alcoholShop\alcoholShop\obj\Debug\netcoreapp3.0\alcoholShop.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\While Loop Lab\05. Max Number\bin\Debug\netcoreapp3.0\05. Max Number.exe
+C:\Users\User\source\repos\While Loop Lab\05. Max Number\bin\Debug\netcoreapp3.0\05. Max Number.deps.json
+C:\Users\User\source\repos\While Loop Lab\05. Max Number\bin\Debug\netcoreapp3.0\05. Max Number.runtimeconfig.json
+C:\Users\User\source\repos\While Loop Lab\05. Max Number\bin\Debug\netcoreapp3.0\05. Max Number.runtimeconfig.dev.json
+C:\Users\User\source\repos\While Loop Lab\05. Max Number\bin\Debug\netcoreapp3.0\05. Max Number.dll
+C:\Users\User\source\repos\While Loop Lab\05. Max Number\bin\Debug\netcoreapp3.0\05. Max Number.pdb
+C:\Users\User\source\repos\While Loop Lab\05. Max Number\obj\Debug\netcoreapp3.0\05. Max Number.csprojAssemblyReference.cache
+C:\Users\User\source\repos\While Loop Lab\05. Max Number\obj\Debug\netcoreapp3.0\05. Max Number.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\While Loop Lab\05. Max Number\obj\Debug\netcoreapp3.0\05. Max Number.AssemblyInfo.cs
+C:\Users\User\source\repos\While Loop Lab\05. Max Number\obj\Debug\netcoreapp3.0\05. Max Number.dll
+C:\Users\User\source\repos\While Loop Lab\05. Max Number\obj\Debug\netcoreapp3.0\05. Max Number.pdb

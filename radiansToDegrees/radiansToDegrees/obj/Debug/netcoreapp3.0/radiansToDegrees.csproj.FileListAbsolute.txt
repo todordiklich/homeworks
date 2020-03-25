@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\radiansToDegrees\radiansToDegrees\bin\Debug\netcoreapp3.0\radiansToDegrees.exe
+C:\Users\User\source\repos\radiansToDegrees\radiansToDegrees\bin\Debug\netcoreapp3.0\radiansToDegrees.deps.json
+C:\Users\User\source\repos\radiansToDegrees\radiansToDegrees\bin\Debug\netcoreapp3.0\radiansToDegrees.runtimeconfig.json
+C:\Users\User\source\repos\radiansToDegrees\radiansToDegrees\bin\Debug\netcoreapp3.0\radiansToDegrees.runtimeconfig.dev.json
+C:\Users\User\source\repos\radiansToDegrees\radiansToDegrees\bin\Debug\netcoreapp3.0\radiansToDegrees.dll
+C:\Users\User\source\repos\radiansToDegrees\radiansToDegrees\bin\Debug\netcoreapp3.0\radiansToDegrees.pdb
+C:\Users\User\source\repos\radiansToDegrees\radiansToDegrees\obj\Debug\netcoreapp3.0\radiansToDegrees.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\radiansToDegrees\radiansToDegrees\obj\Debug\netcoreapp3.0\radiansToDegrees.AssemblyInfo.cs
+C:\Users\User\source\repos\radiansToDegrees\radiansToDegrees\obj\Debug\netcoreapp3.0\radiansToDegrees.dll
+C:\Users\User\source\repos\radiansToDegrees\radiansToDegrees\obj\Debug\netcoreapp3.0\radiansToDegrees.pdb

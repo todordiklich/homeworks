@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Nested Conditional Statements - Labb\Animal Type\bin\Debug\netcoreapp3.0\Animal Type.exe
+C:\Users\User\source\repos\Nested Conditional Statements - Labb\Animal Type\bin\Debug\netcoreapp3.0\Animal Type.deps.json
+C:\Users\User\source\repos\Nested Conditional Statements - Labb\Animal Type\bin\Debug\netcoreapp3.0\Animal Type.runtimeconfig.json
+C:\Users\User\source\repos\Nested Conditional Statements - Labb\Animal Type\bin\Debug\netcoreapp3.0\Animal Type.runtimeconfig.dev.json
+C:\Users\User\source\repos\Nested Conditional Statements - Labb\Animal Type\bin\Debug\netcoreapp3.0\Animal Type.dll
+C:\Users\User\source\repos\Nested Conditional Statements - Labb\Animal Type\bin\Debug\netcoreapp3.0\Animal Type.pdb
+C:\Users\User\source\repos\Nested Conditional Statements - Labb\Animal Type\obj\Debug\netcoreapp3.0\Animal Type.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Nested Conditional Statements - Labb\Animal Type\obj\Debug\netcoreapp3.0\Animal Type.AssemblyInfo.cs
+C:\Users\User\source\repos\Nested Conditional Statements - Labb\Animal Type\obj\Debug\netcoreapp3.0\Animal Type.dll
+C:\Users\User\source\repos\Nested Conditional Statements - Labb\Animal Type\obj\Debug\netcoreapp3.0\Animal Type.pdb

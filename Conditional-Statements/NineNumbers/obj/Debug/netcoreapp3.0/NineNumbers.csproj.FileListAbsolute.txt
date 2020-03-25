@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Conditional-Statements\NineNumbers\obj\Debug\netcoreapp3.0\NineNumbers.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Conditional-Statements\NineNumbers\obj\Debug\netcoreapp3.0\NineNumbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Conditional-Statements\NineNumbers\obj\Debug\netcoreapp3.0\NineNumbers.AssemblyInfo.cs
+C:\Users\User\source\repos\Conditional-Statements\NineNumbers\bin\Debug\netcoreapp3.0\NineNumbers.exe
+C:\Users\User\source\repos\Conditional-Statements\NineNumbers\bin\Debug\netcoreapp3.0\NineNumbers.deps.json
+C:\Users\User\source\repos\Conditional-Statements\NineNumbers\bin\Debug\netcoreapp3.0\NineNumbers.runtimeconfig.json
+C:\Users\User\source\repos\Conditional-Statements\NineNumbers\bin\Debug\netcoreapp3.0\NineNumbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\Conditional-Statements\NineNumbers\bin\Debug\netcoreapp3.0\NineNumbers.dll
+C:\Users\User\source\repos\Conditional-Statements\NineNumbers\bin\Debug\netcoreapp3.0\NineNumbers.pdb
+C:\Users\User\source\repos\Conditional-Statements\NineNumbers\obj\Debug\netcoreapp3.0\NineNumbers.dll
+C:\Users\User\source\repos\Conditional-Statements\NineNumbers\obj\Debug\netcoreapp3.0\NineNumbers.pdb

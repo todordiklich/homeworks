@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>Array_Split_and_take_the_items_which_starts_with__B_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

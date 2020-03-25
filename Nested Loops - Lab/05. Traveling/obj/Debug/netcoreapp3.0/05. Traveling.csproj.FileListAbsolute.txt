@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Nested Loops - Lab\05. Traveling\bin\Debug\netcoreapp3.0\05. Traveling.exe
+C:\Users\User\source\repos\Nested Loops - Lab\05. Traveling\bin\Debug\netcoreapp3.0\05. Traveling.deps.json
+C:\Users\User\source\repos\Nested Loops - Lab\05. Traveling\bin\Debug\netcoreapp3.0\05. Traveling.runtimeconfig.json
+C:\Users\User\source\repos\Nested Loops - Lab\05. Traveling\bin\Debug\netcoreapp3.0\05. Traveling.runtimeconfig.dev.json
+C:\Users\User\source\repos\Nested Loops - Lab\05. Traveling\bin\Debug\netcoreapp3.0\05. Traveling.dll
+C:\Users\User\source\repos\Nested Loops - Lab\05. Traveling\bin\Debug\netcoreapp3.0\05. Traveling.pdb
+C:\Users\User\source\repos\Nested Loops - Lab\05. Traveling\obj\Debug\netcoreapp3.0\05. Traveling.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Nested Loops - Lab\05. Traveling\obj\Debug\netcoreapp3.0\05. Traveling.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Nested Loops - Lab\05. Traveling\obj\Debug\netcoreapp3.0\05. Traveling.AssemblyInfo.cs
+C:\Users\User\source\repos\Nested Loops - Lab\05. Traveling\obj\Debug\netcoreapp3.0\05. Traveling.dll
+C:\Users\User\source\repos\Nested Loops - Lab\05. Traveling\obj\Debug\netcoreapp3.0\05. Traveling.pdb

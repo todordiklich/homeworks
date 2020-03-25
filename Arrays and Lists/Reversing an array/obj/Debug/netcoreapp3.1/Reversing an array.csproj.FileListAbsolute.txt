@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Arrays and Lists\Reversing an array\bin\Debug\netcoreapp3.1\Reversing an array.exe
+C:\Users\User\source\repos\Arrays and Lists\Reversing an array\bin\Debug\netcoreapp3.1\Reversing an array.deps.json
+C:\Users\User\source\repos\Arrays and Lists\Reversing an array\bin\Debug\netcoreapp3.1\Reversing an array.runtimeconfig.json
+C:\Users\User\source\repos\Arrays and Lists\Reversing an array\bin\Debug\netcoreapp3.1\Reversing an array.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays and Lists\Reversing an array\bin\Debug\netcoreapp3.1\Reversing an array.dll
+C:\Users\User\source\repos\Arrays and Lists\Reversing an array\bin\Debug\netcoreapp3.1\Reversing an array.pdb
+C:\Users\User\source\repos\Arrays and Lists\Reversing an array\obj\Debug\netcoreapp3.1\Reversing an array.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Arrays and Lists\Reversing an array\obj\Debug\netcoreapp3.1\Reversing an array.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays and Lists\Reversing an array\obj\Debug\netcoreapp3.1\Reversing an array.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays and Lists\Reversing an array\obj\Debug\netcoreapp3.1\Reversing an array.dll
+C:\Users\User\source\repos\Arrays and Lists\Reversing an array\obj\Debug\netcoreapp3.1\Reversing an array.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Arrays and Lists\12. Make a matrix\bin\Debug\netcoreapp3.1\12. Make a matrix.exe
+C:\Users\User\source\repos\Arrays and Lists\12. Make a matrix\bin\Debug\netcoreapp3.1\12. Make a matrix.deps.json
+C:\Users\User\source\repos\Arrays and Lists\12. Make a matrix\bin\Debug\netcoreapp3.1\12. Make a matrix.runtimeconfig.json
+C:\Users\User\source\repos\Arrays and Lists\12. Make a matrix\bin\Debug\netcoreapp3.1\12. Make a matrix.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays and Lists\12. Make a matrix\bin\Debug\netcoreapp3.1\12. Make a matrix.dll
+C:\Users\User\source\repos\Arrays and Lists\12. Make a matrix\bin\Debug\netcoreapp3.1\12. Make a matrix.pdb
+C:\Users\User\source\repos\Arrays and Lists\12. Make a matrix\obj\Debug\netcoreapp3.1\12. Make a matrix.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Arrays and Lists\12. Make a matrix\obj\Debug\netcoreapp3.1\12. Make a matrix.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays and Lists\12. Make a matrix\obj\Debug\netcoreapp3.1\12. Make a matrix.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays and Lists\12. Make a matrix\obj\Debug\netcoreapp3.1\12. Make a matrix.dll
+C:\Users\User\source\repos\Arrays and Lists\12. Make a matrix\obj\Debug\netcoreapp3.1\12. Make a matrix.pdb

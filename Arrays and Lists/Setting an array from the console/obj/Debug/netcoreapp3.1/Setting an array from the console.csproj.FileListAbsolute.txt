@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Arrays and Lists\Setting an array from the console\bin\Debug\netcoreapp3.1\Setting an array from the console.exe
+C:\Users\User\source\repos\Arrays and Lists\Setting an array from the console\bin\Debug\netcoreapp3.1\Setting an array from the console.deps.json
+C:\Users\User\source\repos\Arrays and Lists\Setting an array from the console\bin\Debug\netcoreapp3.1\Setting an array from the console.runtimeconfig.json
+C:\Users\User\source\repos\Arrays and Lists\Setting an array from the console\bin\Debug\netcoreapp3.1\Setting an array from the console.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays and Lists\Setting an array from the console\bin\Debug\netcoreapp3.1\Setting an array from the console.dll
+C:\Users\User\source\repos\Arrays and Lists\Setting an array from the console\bin\Debug\netcoreapp3.1\Setting an array from the console.pdb
+C:\Users\User\source\repos\Arrays and Lists\Setting an array from the console\obj\Debug\netcoreapp3.1\Setting an array from the console.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Arrays and Lists\Setting an array from the console\obj\Debug\netcoreapp3.1\Setting an array from the console.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays and Lists\Setting an array from the console\obj\Debug\netcoreapp3.1\Setting an array from the console.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays and Lists\Setting an array from the console\obj\Debug\netcoreapp3.1\Setting an array from the console.dll
+C:\Users\User\source\repos\Arrays and Lists\Setting an array from the console\obj\Debug\netcoreapp3.1\Setting an array from the console.pdb

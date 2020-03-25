@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Nested Loops - Lab\07. Building\bin\Debug\netcoreapp3.0\07. Building.exe
+C:\Users\User\source\repos\Nested Loops - Lab\07. Building\bin\Debug\netcoreapp3.0\07. Building.deps.json
+C:\Users\User\source\repos\Nested Loops - Lab\07. Building\bin\Debug\netcoreapp3.0\07. Building.runtimeconfig.json
+C:\Users\User\source\repos\Nested Loops - Lab\07. Building\bin\Debug\netcoreapp3.0\07. Building.runtimeconfig.dev.json
+C:\Users\User\source\repos\Nested Loops - Lab\07. Building\bin\Debug\netcoreapp3.0\07. Building.dll
+C:\Users\User\source\repos\Nested Loops - Lab\07. Building\bin\Debug\netcoreapp3.0\07. Building.pdb
+C:\Users\User\source\repos\Nested Loops - Lab\07. Building\obj\Debug\netcoreapp3.0\07. Building.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Nested Loops - Lab\07. Building\obj\Debug\netcoreapp3.0\07. Building.AssemblyInfo.cs
+C:\Users\User\source\repos\Nested Loops - Lab\07. Building\obj\Debug\netcoreapp3.0\07. Building.dll
+C:\Users\User\source\repos\Nested Loops - Lab\07. Building\obj\Debug\netcoreapp3.0\07. Building.pdb

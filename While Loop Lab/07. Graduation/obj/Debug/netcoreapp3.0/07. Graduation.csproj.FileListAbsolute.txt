@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\While Loop Lab\07. Graduation\bin\Debug\netcoreapp3.0\07. Graduation.exe
+C:\Users\User\source\repos\While Loop Lab\07. Graduation\bin\Debug\netcoreapp3.0\07. Graduation.deps.json
+C:\Users\User\source\repos\While Loop Lab\07. Graduation\bin\Debug\netcoreapp3.0\07. Graduation.runtimeconfig.json
+C:\Users\User\source\repos\While Loop Lab\07. Graduation\bin\Debug\netcoreapp3.0\07. Graduation.runtimeconfig.dev.json
+C:\Users\User\source\repos\While Loop Lab\07. Graduation\bin\Debug\netcoreapp3.0\07. Graduation.dll
+C:\Users\User\source\repos\While Loop Lab\07. Graduation\bin\Debug\netcoreapp3.0\07. Graduation.pdb
+C:\Users\User\source\repos\While Loop Lab\07. Graduation\obj\Debug\netcoreapp3.0\07. Graduation.csprojAssemblyReference.cache
+C:\Users\User\source\repos\While Loop Lab\07. Graduation\obj\Debug\netcoreapp3.0\07. Graduation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\While Loop Lab\07. Graduation\obj\Debug\netcoreapp3.0\07. Graduation.AssemblyInfo.cs
+C:\Users\User\source\repos\While Loop Lab\07. Graduation\obj\Debug\netcoreapp3.0\07. Graduation.dll
+C:\Users\User\source\repos\While Loop Lab\07. Graduation\obj\Debug\netcoreapp3.0\07. Graduation.pdb

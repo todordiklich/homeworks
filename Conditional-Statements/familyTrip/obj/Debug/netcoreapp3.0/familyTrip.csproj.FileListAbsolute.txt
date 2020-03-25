@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Conditional-Statements\familyTrip\bin\Debug\netcoreapp3.0\familyTrip.exe
+C:\Users\User\source\repos\Conditional-Statements\familyTrip\bin\Debug\netcoreapp3.0\familyTrip.deps.json
+C:\Users\User\source\repos\Conditional-Statements\familyTrip\bin\Debug\netcoreapp3.0\familyTrip.runtimeconfig.json
+C:\Users\User\source\repos\Conditional-Statements\familyTrip\bin\Debug\netcoreapp3.0\familyTrip.runtimeconfig.dev.json
+C:\Users\User\source\repos\Conditional-Statements\familyTrip\bin\Debug\netcoreapp3.0\familyTrip.dll
+C:\Users\User\source\repos\Conditional-Statements\familyTrip\bin\Debug\netcoreapp3.0\familyTrip.pdb
+C:\Users\User\source\repos\Conditional-Statements\familyTrip\obj\Debug\netcoreapp3.0\familyTrip.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Conditional-Statements\familyTrip\obj\Debug\netcoreapp3.0\familyTrip.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Conditional-Statements\familyTrip\obj\Debug\netcoreapp3.0\familyTrip.AssemblyInfo.cs
+C:\Users\User\source\repos\Conditional-Statements\familyTrip\obj\Debug\netcoreapp3.0\familyTrip.dll
+C:\Users\User\source\repos\Conditional-Statements\familyTrip\obj\Debug\netcoreapp3.0\familyTrip.pdb

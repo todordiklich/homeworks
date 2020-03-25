@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Arrays and Lists\07. Array[N] - K elements with max sum\bin\Debug\netcoreapp3.1\07. Array[N] - K elements with max sum.exe
+C:\Users\User\source\repos\Arrays and Lists\07. Array[N] - K elements with max sum\bin\Debug\netcoreapp3.1\07. Array[N] - K elements with max sum.deps.json
+C:\Users\User\source\repos\Arrays and Lists\07. Array[N] - K elements with max sum\bin\Debug\netcoreapp3.1\07. Array[N] - K elements with max sum.runtimeconfig.json
+C:\Users\User\source\repos\Arrays and Lists\07. Array[N] - K elements with max sum\bin\Debug\netcoreapp3.1\07. Array[N] - K elements with max sum.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays and Lists\07. Array[N] - K elements with max sum\bin\Debug\netcoreapp3.1\07. Array[N] - K elements with max sum.dll
+C:\Users\User\source\repos\Arrays and Lists\07. Array[N] - K elements with max sum\bin\Debug\netcoreapp3.1\07. Array[N] - K elements with max sum.pdb
+C:\Users\User\source\repos\Arrays and Lists\07. Array[N] - K elements with max sum\obj\Debug\netcoreapp3.1\07. Array[N] - K elements with max sum.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Arrays and Lists\07. Array[N] - K elements with max sum\obj\Debug\netcoreapp3.1\07. Array[N] - K elements with max sum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays and Lists\07. Array[N] - K elements with max sum\obj\Debug\netcoreapp3.1\07. Array[N] - K elements with max sum.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays and Lists\07. Array[N] - K elements with max sum\obj\Debug\netcoreapp3.1\07. Array[N] - K elements with max sum.dll
+C:\Users\User\source\repos\Arrays and Lists\07. Array[N] - K elements with max sum\obj\Debug\netcoreapp3.1\07. Array[N] - K elements with max sum.pdb

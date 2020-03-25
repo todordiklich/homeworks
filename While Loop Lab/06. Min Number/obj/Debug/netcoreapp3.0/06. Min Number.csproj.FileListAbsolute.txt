@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\While Loop Lab\06. Min Number\bin\Debug\netcoreapp3.0\06. Min Number.exe
+C:\Users\User\source\repos\While Loop Lab\06. Min Number\bin\Debug\netcoreapp3.0\06. Min Number.deps.json
+C:\Users\User\source\repos\While Loop Lab\06. Min Number\bin\Debug\netcoreapp3.0\06. Min Number.runtimeconfig.json
+C:\Users\User\source\repos\While Loop Lab\06. Min Number\bin\Debug\netcoreapp3.0\06. Min Number.runtimeconfig.dev.json
+C:\Users\User\source\repos\While Loop Lab\06. Min Number\bin\Debug\netcoreapp3.0\06. Min Number.dll
+C:\Users\User\source\repos\While Loop Lab\06. Min Number\bin\Debug\netcoreapp3.0\06. Min Number.pdb
+C:\Users\User\source\repos\While Loop Lab\06. Min Number\obj\Debug\netcoreapp3.0\06. Min Number.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\While Loop Lab\06. Min Number\obj\Debug\netcoreapp3.0\06. Min Number.AssemblyInfo.cs
+C:\Users\User\source\repos\While Loop Lab\06. Min Number\obj\Debug\netcoreapp3.0\06. Min Number.dll
+C:\Users\User\source\repos\While Loop Lab\06. Min Number\obj\Debug\netcoreapp3.0\06. Min Number.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "11. Finding a given sum in an array/1.0.0": {
+        "runtime": {
+          "11. Finding a given sum in an array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "11. Finding a given sum in an array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

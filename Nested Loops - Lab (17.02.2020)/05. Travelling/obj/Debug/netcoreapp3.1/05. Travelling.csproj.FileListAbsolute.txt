@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Nested Loops - Lab (17.02.2020)\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.exe
+C:\Users\User\source\repos\Nested Loops - Lab (17.02.2020)\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.deps.json
+C:\Users\User\source\repos\Nested Loops - Lab (17.02.2020)\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.runtimeconfig.json
+C:\Users\User\source\repos\Nested Loops - Lab (17.02.2020)\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.runtimeconfig.dev.json
+C:\Users\User\source\repos\Nested Loops - Lab (17.02.2020)\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.dll
+C:\Users\User\source\repos\Nested Loops - Lab (17.02.2020)\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.pdb
+C:\Users\User\source\repos\Nested Loops - Lab (17.02.2020)\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Nested Loops - Lab (17.02.2020)\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.AssemblyInfo.cs
+C:\Users\User\source\repos\Nested Loops - Lab (17.02.2020)\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.dll
+C:\Users\User\source\repos\Nested Loops - Lab (17.02.2020)\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.pdb

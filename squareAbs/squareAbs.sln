@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "squareAbs", "squareAbs\squareAbs.csproj", "{8132EAC5-1D4C-43D6-AAEB-C12561FB016A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8132EAC5-1D4C-43D6-AAEB-C12561FB016A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8132EAC5-1D4C-43D6-AAEB-C12561FB016A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8132EAC5-1D4C-43D6-AAEB-C12561FB016A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8132EAC5-1D4C-43D6-AAEB-C12561FB016A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EA64EDB-6710-4E56-94E0-3C2F2231A6DE}
+	EndGlobalSection
+EndGlobal

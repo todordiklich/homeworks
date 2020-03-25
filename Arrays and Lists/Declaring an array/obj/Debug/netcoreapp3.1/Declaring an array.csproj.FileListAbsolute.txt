@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Arrays and Lists\Declaring an array\bin\Debug\netcoreapp3.1\Declaring an array.exe
+C:\Users\User\source\repos\Arrays and Lists\Declaring an array\bin\Debug\netcoreapp3.1\Declaring an array.deps.json
+C:\Users\User\source\repos\Arrays and Lists\Declaring an array\bin\Debug\netcoreapp3.1\Declaring an array.runtimeconfig.json
+C:\Users\User\source\repos\Arrays and Lists\Declaring an array\bin\Debug\netcoreapp3.1\Declaring an array.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays and Lists\Declaring an array\bin\Debug\netcoreapp3.1\Declaring an array.dll
+C:\Users\User\source\repos\Arrays and Lists\Declaring an array\bin\Debug\netcoreapp3.1\Declaring an array.pdb
+C:\Users\User\source\repos\Arrays and Lists\Declaring an array\obj\Debug\netcoreapp3.1\Declaring an array.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Arrays and Lists\Declaring an array\obj\Debug\netcoreapp3.1\Declaring an array.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays and Lists\Declaring an array\obj\Debug\netcoreapp3.1\Declaring an array.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays and Lists\Declaring an array\obj\Debug\netcoreapp3.1\Declaring an array.dll
+C:\Users\User\source\repos\Arrays and Lists\Declaring an array\obj\Debug\netcoreapp3.1\Declaring an array.pdb

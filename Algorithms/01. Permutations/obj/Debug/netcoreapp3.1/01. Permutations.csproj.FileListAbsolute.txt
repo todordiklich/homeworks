@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Algorithms\01. Permutations\bin\Debug\netcoreapp3.1\01. Permutations.exe
+C:\Users\User\source\repos\Algorithms\01. Permutations\bin\Debug\netcoreapp3.1\01. Permutations.deps.json
+C:\Users\User\source\repos\Algorithms\01. Permutations\bin\Debug\netcoreapp3.1\01. Permutations.runtimeconfig.json
+C:\Users\User\source\repos\Algorithms\01. Permutations\bin\Debug\netcoreapp3.1\01. Permutations.runtimeconfig.dev.json
+C:\Users\User\source\repos\Algorithms\01. Permutations\bin\Debug\netcoreapp3.1\01. Permutations.dll
+C:\Users\User\source\repos\Algorithms\01. Permutations\bin\Debug\netcoreapp3.1\01. Permutations.pdb
+C:\Users\User\source\repos\Algorithms\01. Permutations\obj\Debug\netcoreapp3.1\01. Permutations.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Algorithms\01. Permutations\obj\Debug\netcoreapp3.1\01. Permutations.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Algorithms\01. Permutations\obj\Debug\netcoreapp3.1\01. Permutations.AssemblyInfo.cs
+C:\Users\User\source\repos\Algorithms\01. Permutations\obj\Debug\netcoreapp3.1\01. Permutations.dll
+C:\Users\User\source\repos\Algorithms\01. Permutations\obj\Debug\netcoreapp3.1\01. Permutations.pdb

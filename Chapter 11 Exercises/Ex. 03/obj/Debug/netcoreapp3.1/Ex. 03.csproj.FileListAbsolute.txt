@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Chapter 11 Exercises\Ex. 03\bin\Debug\netcoreapp3.1\Ex. 03.exe
+C:\Users\User\source\repos\Chapter 11 Exercises\Ex. 03\bin\Debug\netcoreapp3.1\Ex. 03.deps.json
+C:\Users\User\source\repos\Chapter 11 Exercises\Ex. 03\bin\Debug\netcoreapp3.1\Ex. 03.runtimeconfig.json
+C:\Users\User\source\repos\Chapter 11 Exercises\Ex. 03\bin\Debug\netcoreapp3.1\Ex. 03.runtimeconfig.dev.json
+C:\Users\User\source\repos\Chapter 11 Exercises\Ex. 03\bin\Debug\netcoreapp3.1\Ex. 03.dll
+C:\Users\User\source\repos\Chapter 11 Exercises\Ex. 03\bin\Debug\netcoreapp3.1\Ex. 03.pdb
+C:\Users\User\source\repos\Chapter 11 Exercises\Ex. 03\obj\Debug\netcoreapp3.1\Ex. 03.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Chapter 11 Exercises\Ex. 03\obj\Debug\netcoreapp3.1\Ex. 03.AssemblyInfo.cs
+C:\Users\User\source\repos\Chapter 11 Exercises\Ex. 03\obj\Debug\netcoreapp3.1\Ex. 03.dll
+C:\Users\User\source\repos\Chapter 11 Exercises\Ex. 03\obj\Debug\netcoreapp3.1\Ex. 03.pdb

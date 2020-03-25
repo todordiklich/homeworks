@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Nested Loops - Lab\06. Name battle\bin\Debug\netcoreapp3.0\06. Name battle.exe
+C:\Users\User\source\repos\Nested Loops - Lab\06. Name battle\bin\Debug\netcoreapp3.0\06. Name battle.deps.json
+C:\Users\User\source\repos\Nested Loops - Lab\06. Name battle\bin\Debug\netcoreapp3.0\06. Name battle.runtimeconfig.json
+C:\Users\User\source\repos\Nested Loops - Lab\06. Name battle\bin\Debug\netcoreapp3.0\06. Name battle.runtimeconfig.dev.json
+C:\Users\User\source\repos\Nested Loops - Lab\06. Name battle\bin\Debug\netcoreapp3.0\06. Name battle.dll
+C:\Users\User\source\repos\Nested Loops - Lab\06. Name battle\bin\Debug\netcoreapp3.0\06. Name battle.pdb
+C:\Users\User\source\repos\Nested Loops - Lab\06. Name battle\obj\Debug\netcoreapp3.0\06. Name battle.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Nested Loops - Lab\06. Name battle\obj\Debug\netcoreapp3.0\06. Name battle.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Nested Loops - Lab\06. Name battle\obj\Debug\netcoreapp3.0\06. Name battle.AssemblyInfo.cs
+C:\Users\User\source\repos\Nested Loops - Lab\06. Name battle\obj\Debug\netcoreapp3.0\06. Name battle.dll
+C:\Users\User\source\repos\Nested Loops - Lab\06. Name battle\obj\Debug\netcoreapp3.0\06. Name battle.pdb

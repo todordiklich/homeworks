@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Arrays and Lists\20. Chech sum\bin\Debug\netcoreapp3.1\20. Chech sum.exe
+C:\Users\User\source\repos\Arrays and Lists\20. Chech sum\bin\Debug\netcoreapp3.1\20. Chech sum.deps.json
+C:\Users\User\source\repos\Arrays and Lists\20. Chech sum\bin\Debug\netcoreapp3.1\20. Chech sum.runtimeconfig.json
+C:\Users\User\source\repos\Arrays and Lists\20. Chech sum\bin\Debug\netcoreapp3.1\20. Chech sum.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays and Lists\20. Chech sum\bin\Debug\netcoreapp3.1\20. Chech sum.dll
+C:\Users\User\source\repos\Arrays and Lists\20. Chech sum\bin\Debug\netcoreapp3.1\20. Chech sum.pdb
+C:\Users\User\source\repos\Arrays and Lists\20. Chech sum\obj\Debug\netcoreapp3.1\20. Chech sum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays and Lists\20. Chech sum\obj\Debug\netcoreapp3.1\20. Chech sum.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays and Lists\20. Chech sum\obj\Debug\netcoreapp3.1\20. Chech sum.dll
+C:\Users\User\source\repos\Arrays and Lists\20. Chech sum\obj\Debug\netcoreapp3.1\20. Chech sum.pdb

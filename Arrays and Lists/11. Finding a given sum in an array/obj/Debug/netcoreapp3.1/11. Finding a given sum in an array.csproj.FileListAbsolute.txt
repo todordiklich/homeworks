@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Arrays and Lists\11. Finding a given sum in an array\bin\Debug\netcoreapp3.1\11. Finding a given sum in an array.exe
+C:\Users\User\source\repos\Arrays and Lists\11. Finding a given sum in an array\bin\Debug\netcoreapp3.1\11. Finding a given sum in an array.deps.json
+C:\Users\User\source\repos\Arrays and Lists\11. Finding a given sum in an array\bin\Debug\netcoreapp3.1\11. Finding a given sum in an array.runtimeconfig.json
+C:\Users\User\source\repos\Arrays and Lists\11. Finding a given sum in an array\bin\Debug\netcoreapp3.1\11. Finding a given sum in an array.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays and Lists\11. Finding a given sum in an array\bin\Debug\netcoreapp3.1\11. Finding a given sum in an array.dll
+C:\Users\User\source\repos\Arrays and Lists\11. Finding a given sum in an array\bin\Debug\netcoreapp3.1\11. Finding a given sum in an array.pdb
+C:\Users\User\source\repos\Arrays and Lists\11. Finding a given sum in an array\obj\Debug\netcoreapp3.1\11. Finding a given sum in an array.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays and Lists\11. Finding a given sum in an array\obj\Debug\netcoreapp3.1\11. Finding a given sum in an array.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays and Lists\11. Finding a given sum in an array\obj\Debug\netcoreapp3.1\11. Finding a given sum in an array.dll
+C:\Users\User\source\repos\Arrays and Lists\11. Finding a given sum in an array\obj\Debug\netcoreapp3.1\11. Finding a given sum in an array.pdb

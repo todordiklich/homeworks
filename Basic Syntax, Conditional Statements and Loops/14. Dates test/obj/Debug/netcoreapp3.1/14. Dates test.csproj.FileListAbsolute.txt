@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\14. Dates test\bin\Debug\netcoreapp3.1\14. Dates test.exe
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\14. Dates test\bin\Debug\netcoreapp3.1\14. Dates test.deps.json
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\14. Dates test\bin\Debug\netcoreapp3.1\14. Dates test.runtimeconfig.json
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\14. Dates test\bin\Debug\netcoreapp3.1\14. Dates test.runtimeconfig.dev.json
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\14. Dates test\bin\Debug\netcoreapp3.1\14. Dates test.dll
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\14. Dates test\bin\Debug\netcoreapp3.1\14. Dates test.pdb
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\14. Dates test\obj\Debug\netcoreapp3.1\14. Dates test.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\14. Dates test\obj\Debug\netcoreapp3.1\14. Dates test.AssemblyInfo.cs
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\14. Dates test\obj\Debug\netcoreapp3.1\14. Dates test.dll
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\14. Dates test\obj\Debug\netcoreapp3.1\14. Dates test.pdb

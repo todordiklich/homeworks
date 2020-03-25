@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\USDtoBGN\Array Sort and Reverse\bin\Debug\netcoreapp3.0\Array Sort and Reverse.exe
+C:\Users\User\source\repos\USDtoBGN\Array Sort and Reverse\bin\Debug\netcoreapp3.0\Array Sort and Reverse.deps.json
+C:\Users\User\source\repos\USDtoBGN\Array Sort and Reverse\bin\Debug\netcoreapp3.0\Array Sort and Reverse.runtimeconfig.json
+C:\Users\User\source\repos\USDtoBGN\Array Sort and Reverse\bin\Debug\netcoreapp3.0\Array Sort and Reverse.runtimeconfig.dev.json
+C:\Users\User\source\repos\USDtoBGN\Array Sort and Reverse\bin\Debug\netcoreapp3.0\Array Sort and Reverse.dll
+C:\Users\User\source\repos\USDtoBGN\Array Sort and Reverse\bin\Debug\netcoreapp3.0\Array Sort and Reverse.pdb
+C:\Users\User\source\repos\USDtoBGN\Array Sort and Reverse\obj\Debug\netcoreapp3.0\Array Sort and Reverse.csprojAssemblyReference.cache
+C:\Users\User\source\repos\USDtoBGN\Array Sort and Reverse\obj\Debug\netcoreapp3.0\Array Sort and Reverse.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\USDtoBGN\Array Sort and Reverse\obj\Debug\netcoreapp3.0\Array Sort and Reverse.AssemblyInfo.cs
+C:\Users\User\source\repos\USDtoBGN\Array Sort and Reverse\obj\Debug\netcoreapp3.0\Array Sort and Reverse.dll
+C:\Users\User\source\repos\USDtoBGN\Array Sort and Reverse\obj\Debug\netcoreapp3.0\Array Sort and Reverse.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\03. StaticMethods\bin\Debug\netcoreapp3.1\03. StaticMethods.exe
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\03. StaticMethods\bin\Debug\netcoreapp3.1\03. StaticMethods.deps.json
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\03. StaticMethods\bin\Debug\netcoreapp3.1\03. StaticMethods.runtimeconfig.json
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\03. StaticMethods\bin\Debug\netcoreapp3.1\03. StaticMethods.runtimeconfig.dev.json
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\03. StaticMethods\bin\Debug\netcoreapp3.1\03. StaticMethods.dll
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\03. StaticMethods\bin\Debug\netcoreapp3.1\03. StaticMethods.pdb
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\03. StaticMethods\obj\Debug\netcoreapp3.1\03. StaticMethods.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\03. StaticMethods\obj\Debug\netcoreapp3.1\03. StaticMethods.AssemblyInfo.cs
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\03. StaticMethods\obj\Debug\netcoreapp3.1\03. StaticMethods.dll
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\03. StaticMethods\obj\Debug\netcoreapp3.1\03. StaticMethods.pdb

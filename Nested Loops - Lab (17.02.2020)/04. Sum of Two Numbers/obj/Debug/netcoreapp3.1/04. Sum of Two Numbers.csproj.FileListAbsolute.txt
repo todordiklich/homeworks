@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Nested Loops - Lab (17.02.2020)\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.exe
+C:\Users\User\source\repos\Nested Loops - Lab (17.02.2020)\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.deps.json
+C:\Users\User\source\repos\Nested Loops - Lab (17.02.2020)\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.runtimeconfig.json
+C:\Users\User\source\repos\Nested Loops - Lab (17.02.2020)\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\Nested Loops - Lab (17.02.2020)\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.dll
+C:\Users\User\source\repos\Nested Loops - Lab (17.02.2020)\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.pdb
+C:\Users\User\source\repos\Nested Loops - Lab (17.02.2020)\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Nested Loops - Lab (17.02.2020)\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Nested Loops - Lab (17.02.2020)\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.AssemblyInfo.cs
+C:\Users\User\source\repos\Nested Loops - Lab (17.02.2020)\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.dll
+C:\Users\User\source\repos\Nested Loops - Lab (17.02.2020)\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.pdb

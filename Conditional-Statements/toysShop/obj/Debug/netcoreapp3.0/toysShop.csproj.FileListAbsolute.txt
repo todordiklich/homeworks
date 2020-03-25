@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Conditional-Statements\toysShop\bin\Debug\netcoreapp3.0\toysShop.exe
+C:\Users\User\source\repos\Conditional-Statements\toysShop\bin\Debug\netcoreapp3.0\toysShop.deps.json
+C:\Users\User\source\repos\Conditional-Statements\toysShop\bin\Debug\netcoreapp3.0\toysShop.runtimeconfig.json
+C:\Users\User\source\repos\Conditional-Statements\toysShop\bin\Debug\netcoreapp3.0\toysShop.runtimeconfig.dev.json
+C:\Users\User\source\repos\Conditional-Statements\toysShop\bin\Debug\netcoreapp3.0\toysShop.dll
+C:\Users\User\source\repos\Conditional-Statements\toysShop\bin\Debug\netcoreapp3.0\toysShop.pdb
+C:\Users\User\source\repos\Conditional-Statements\toysShop\obj\Debug\netcoreapp3.0\toysShop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Conditional-Statements\toysShop\obj\Debug\netcoreapp3.0\toysShop.AssemblyInfo.cs
+C:\Users\User\source\repos\Conditional-Statements\toysShop\obj\Debug\netcoreapp3.0\toysShop.dll
+C:\Users\User\source\repos\Conditional-Statements\toysShop\obj\Debug\netcoreapp3.0\toysShop.pdb
+C:\Users\User\source\repos\Conditional-Statements\toysShop\obj\Debug\netcoreapp3.0\toysShop.csprojAssemblyReference.cache

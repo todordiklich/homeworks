@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\USDtoBGN\USDtoBGN\bin\Debug\netcoreapp3.0\USDtoBGN.exe
+C:\Users\User\source\repos\USDtoBGN\USDtoBGN\bin\Debug\netcoreapp3.0\USDtoBGN.deps.json
+C:\Users\User\source\repos\USDtoBGN\USDtoBGN\bin\Debug\netcoreapp3.0\USDtoBGN.runtimeconfig.json
+C:\Users\User\source\repos\USDtoBGN\USDtoBGN\bin\Debug\netcoreapp3.0\USDtoBGN.runtimeconfig.dev.json
+C:\Users\User\source\repos\USDtoBGN\USDtoBGN\bin\Debug\netcoreapp3.0\USDtoBGN.dll
+C:\Users\User\source\repos\USDtoBGN\USDtoBGN\bin\Debug\netcoreapp3.0\USDtoBGN.pdb
+C:\Users\User\source\repos\USDtoBGN\USDtoBGN\obj\Debug\netcoreapp3.0\USDtoBGN.csprojAssemblyReference.cache
+C:\Users\User\source\repos\USDtoBGN\USDtoBGN\obj\Debug\netcoreapp3.0\USDtoBGN.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\USDtoBGN\USDtoBGN\obj\Debug\netcoreapp3.0\USDtoBGN.AssemblyInfo.cs
+C:\Users\User\source\repos\USDtoBGN\USDtoBGN\obj\Debug\netcoreapp3.0\USDtoBGN.dll
+C:\Users\User\source\repos\USDtoBGN\USDtoBGN\obj\Debug\netcoreapp3.0\USDtoBGN.pdb

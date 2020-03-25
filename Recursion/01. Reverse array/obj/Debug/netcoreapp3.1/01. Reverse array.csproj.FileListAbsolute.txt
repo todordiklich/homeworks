@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Recursion\01. Reverse array\bin\Debug\netcoreapp3.1\01. Reverse array.exe
+C:\Users\User\source\repos\Recursion\01. Reverse array\bin\Debug\netcoreapp3.1\01. Reverse array.deps.json
+C:\Users\User\source\repos\Recursion\01. Reverse array\bin\Debug\netcoreapp3.1\01. Reverse array.runtimeconfig.json
+C:\Users\User\source\repos\Recursion\01. Reverse array\bin\Debug\netcoreapp3.1\01. Reverse array.runtimeconfig.dev.json
+C:\Users\User\source\repos\Recursion\01. Reverse array\bin\Debug\netcoreapp3.1\01. Reverse array.dll
+C:\Users\User\source\repos\Recursion\01. Reverse array\bin\Debug\netcoreapp3.1\01. Reverse array.pdb
+C:\Users\User\source\repos\Recursion\01. Reverse array\obj\Debug\netcoreapp3.1\01. Reverse array.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Recursion\01. Reverse array\obj\Debug\netcoreapp3.1\01. Reverse array.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Recursion\01. Reverse array\obj\Debug\netcoreapp3.1\01. Reverse array.AssemblyInfo.cs
+C:\Users\User\source\repos\Recursion\01. Reverse array\obj\Debug\netcoreapp3.1\01. Reverse array.dll
+C:\Users\User\source\repos\Recursion\01. Reverse array\obj\Debug\netcoreapp3.1\01. Reverse array.pdb

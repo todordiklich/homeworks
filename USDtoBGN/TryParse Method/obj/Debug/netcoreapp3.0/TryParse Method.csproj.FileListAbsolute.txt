@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\USDtoBGN\TryParse Method\bin\Debug\netcoreapp3.0\TryParse Method.exe
+C:\Users\User\source\repos\USDtoBGN\TryParse Method\bin\Debug\netcoreapp3.0\TryParse Method.deps.json
+C:\Users\User\source\repos\USDtoBGN\TryParse Method\bin\Debug\netcoreapp3.0\TryParse Method.runtimeconfig.json
+C:\Users\User\source\repos\USDtoBGN\TryParse Method\bin\Debug\netcoreapp3.0\TryParse Method.runtimeconfig.dev.json
+C:\Users\User\source\repos\USDtoBGN\TryParse Method\bin\Debug\netcoreapp3.0\TryParse Method.dll
+C:\Users\User\source\repos\USDtoBGN\TryParse Method\bin\Debug\netcoreapp3.0\TryParse Method.pdb
+C:\Users\User\source\repos\USDtoBGN\TryParse Method\obj\Debug\netcoreapp3.0\TryParse Method.csprojAssemblyReference.cache
+C:\Users\User\source\repos\USDtoBGN\TryParse Method\obj\Debug\netcoreapp3.0\TryParse Method.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\USDtoBGN\TryParse Method\obj\Debug\netcoreapp3.0\TryParse Method.AssemblyInfo.cs
+C:\Users\User\source\repos\USDtoBGN\TryParse Method\obj\Debug\netcoreapp3.0\TryParse Method.dll
+C:\Users\User\source\repos\USDtoBGN\TryParse Method\obj\Debug\netcoreapp3.0\TryParse Method.pdb

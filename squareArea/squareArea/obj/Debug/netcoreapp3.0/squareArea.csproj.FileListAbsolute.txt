@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\squareArea\squareArea\bin\Debug\netcoreapp3.0\squareArea.exe
+C:\Users\User\source\repos\squareArea\squareArea\bin\Debug\netcoreapp3.0\squareArea.deps.json
+C:\Users\User\source\repos\squareArea\squareArea\bin\Debug\netcoreapp3.0\squareArea.runtimeconfig.json
+C:\Users\User\source\repos\squareArea\squareArea\bin\Debug\netcoreapp3.0\squareArea.runtimeconfig.dev.json
+C:\Users\User\source\repos\squareArea\squareArea\bin\Debug\netcoreapp3.0\squareArea.dll
+C:\Users\User\source\repos\squareArea\squareArea\bin\Debug\netcoreapp3.0\squareArea.pdb
+C:\Users\User\source\repos\squareArea\squareArea\obj\Debug\netcoreapp3.0\squareArea.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\squareArea\squareArea\obj\Debug\netcoreapp3.0\squareArea.AssemblyInfo.cs
+C:\Users\User\source\repos\squareArea\squareArea\obj\Debug\netcoreapp3.0\squareArea.dll
+C:\Users\User\source\repos\squareArea\squareArea\obj\Debug\netcoreapp3.0\squareArea.pdb
+C:\Users\User\source\repos\squareArea\squareArea\obj\Debug\netcoreapp3.0\squareArea.csprojAssemblyReference.cache

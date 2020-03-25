@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\squareAbs\squareAbs\bin\Debug\netcoreapp3.0\squareAbs.exe
+C:\Users\User\source\repos\squareAbs\squareAbs\bin\Debug\netcoreapp3.0\squareAbs.deps.json
+C:\Users\User\source\repos\squareAbs\squareAbs\bin\Debug\netcoreapp3.0\squareAbs.runtimeconfig.json
+C:\Users\User\source\repos\squareAbs\squareAbs\bin\Debug\netcoreapp3.0\squareAbs.runtimeconfig.dev.json
+C:\Users\User\source\repos\squareAbs\squareAbs\bin\Debug\netcoreapp3.0\squareAbs.dll
+C:\Users\User\source\repos\squareAbs\squareAbs\bin\Debug\netcoreapp3.0\squareAbs.pdb
+C:\Users\User\source\repos\squareAbs\squareAbs\obj\Debug\netcoreapp3.0\squareAbs.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\squareAbs\squareAbs\obj\Debug\netcoreapp3.0\squareAbs.AssemblyInfo.cs
+C:\Users\User\source\repos\squareAbs\squareAbs\obj\Debug\netcoreapp3.0\squareAbs.dll
+C:\Users\User\source\repos\squareAbs\squareAbs\obj\Debug\netcoreapp3.0\squareAbs.pdb
+C:\Users\User\source\repos\squareAbs\squareAbs\obj\Debug\netcoreapp3.0\squareAbs.csprojAssemblyReference.cache

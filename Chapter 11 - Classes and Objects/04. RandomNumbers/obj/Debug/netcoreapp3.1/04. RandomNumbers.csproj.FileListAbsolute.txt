@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\04. RandomNumbers\bin\Debug\netcoreapp3.1\04. RandomNumbers.exe
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\04. RandomNumbers\bin\Debug\netcoreapp3.1\04. RandomNumbers.deps.json
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\04. RandomNumbers\bin\Debug\netcoreapp3.1\04. RandomNumbers.runtimeconfig.json
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\04. RandomNumbers\bin\Debug\netcoreapp3.1\04. RandomNumbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\04. RandomNumbers\bin\Debug\netcoreapp3.1\04. RandomNumbers.dll
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\04. RandomNumbers\bin\Debug\netcoreapp3.1\04. RandomNumbers.pdb
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\04. RandomNumbers\obj\Debug\netcoreapp3.1\04. RandomNumbers.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\04. RandomNumbers\obj\Debug\netcoreapp3.1\04. RandomNumbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\04. RandomNumbers\obj\Debug\netcoreapp3.1\04. RandomNumbers.AssemblyInfo.cs
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\04. RandomNumbers\obj\Debug\netcoreapp3.1\04. RandomNumbers.dll
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\04. RandomNumbers\obj\Debug\netcoreapp3.1\04. RandomNumbers.pdb

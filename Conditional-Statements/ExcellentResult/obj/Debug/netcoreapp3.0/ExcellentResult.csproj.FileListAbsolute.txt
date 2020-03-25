@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Conditional-Statements\ExcellentResult\obj\Debug\netcoreapp3.0\ExcellentResult.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Conditional-Statements\ExcellentResult\obj\Debug\netcoreapp3.0\ExcellentResult.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Conditional-Statements\ExcellentResult\obj\Debug\netcoreapp3.0\ExcellentResult.AssemblyInfo.cs
+C:\Users\User\source\repos\Conditional-Statements\ExcellentResult\bin\Debug\netcoreapp3.0\ExcellentResult.exe
+C:\Users\User\source\repos\Conditional-Statements\ExcellentResult\bin\Debug\netcoreapp3.0\ExcellentResult.deps.json
+C:\Users\User\source\repos\Conditional-Statements\ExcellentResult\bin\Debug\netcoreapp3.0\ExcellentResult.runtimeconfig.json
+C:\Users\User\source\repos\Conditional-Statements\ExcellentResult\bin\Debug\netcoreapp3.0\ExcellentResult.runtimeconfig.dev.json
+C:\Users\User\source\repos\Conditional-Statements\ExcellentResult\bin\Debug\netcoreapp3.0\ExcellentResult.dll
+C:\Users\User\source\repos\Conditional-Statements\ExcellentResult\bin\Debug\netcoreapp3.0\ExcellentResult.pdb
+C:\Users\User\source\repos\Conditional-Statements\ExcellentResult\obj\Debug\netcoreapp3.0\ExcellentResult.dll
+C:\Users\User\source\repos\Conditional-Statements\ExcellentResult\obj\Debug\netcoreapp3.0\ExcellentResult.pdb

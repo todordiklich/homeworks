@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Array Sort and Reverse/1.0.0": {
+        "runtime": {
+          "Array Sort and Reverse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Array Sort and Reverse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Nested Conditional Statements - Exercise\07. Operations Between Numbers\bin\Debug\netcoreapp3.0\07. Operations Between Numbers.exe
+C:\Users\User\source\repos\Nested Conditional Statements - Exercise\07. Operations Between Numbers\bin\Debug\netcoreapp3.0\07. Operations Between Numbers.deps.json
+C:\Users\User\source\repos\Nested Conditional Statements - Exercise\07. Operations Between Numbers\bin\Debug\netcoreapp3.0\07. Operations Between Numbers.runtimeconfig.json
+C:\Users\User\source\repos\Nested Conditional Statements - Exercise\07. Operations Between Numbers\bin\Debug\netcoreapp3.0\07. Operations Between Numbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\Nested Conditional Statements - Exercise\07. Operations Between Numbers\bin\Debug\netcoreapp3.0\07. Operations Between Numbers.dll
+C:\Users\User\source\repos\Nested Conditional Statements - Exercise\07. Operations Between Numbers\bin\Debug\netcoreapp3.0\07. Operations Between Numbers.pdb
+C:\Users\User\source\repos\Nested Conditional Statements - Exercise\07. Operations Between Numbers\obj\Debug\netcoreapp3.0\07. Operations Between Numbers.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Nested Conditional Statements - Exercise\07. Operations Between Numbers\obj\Debug\netcoreapp3.0\07. Operations Between Numbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Nested Conditional Statements - Exercise\07. Operations Between Numbers\obj\Debug\netcoreapp3.0\07. Operations Between Numbers.AssemblyInfo.cs
+C:\Users\User\source\repos\Nested Conditional Statements - Exercise\07. Operations Between Numbers\obj\Debug\netcoreapp3.0\07. Operations Between Numbers.dll
+C:\Users\User\source\repos\Nested Conditional Statements - Exercise\07. Operations Between Numbers\obj\Debug\netcoreapp3.0\07. Operations Between Numbers.pdb

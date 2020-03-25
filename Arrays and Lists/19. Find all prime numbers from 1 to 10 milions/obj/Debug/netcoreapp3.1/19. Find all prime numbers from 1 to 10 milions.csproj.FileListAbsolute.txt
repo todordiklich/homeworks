@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Arrays and Lists\19. Find all prime numbers from 1 to 10 milions\bin\Debug\netcoreapp3.1\19. Find all prime numbers from 1 to 10 milions.exe
+C:\Users\User\source\repos\Arrays and Lists\19. Find all prime numbers from 1 to 10 milions\bin\Debug\netcoreapp3.1\19. Find all prime numbers from 1 to 10 milions.deps.json
+C:\Users\User\source\repos\Arrays and Lists\19. Find all prime numbers from 1 to 10 milions\bin\Debug\netcoreapp3.1\19. Find all prime numbers from 1 to 10 milions.runtimeconfig.json
+C:\Users\User\source\repos\Arrays and Lists\19. Find all prime numbers from 1 to 10 milions\bin\Debug\netcoreapp3.1\19. Find all prime numbers from 1 to 10 milions.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays and Lists\19. Find all prime numbers from 1 to 10 milions\bin\Debug\netcoreapp3.1\19. Find all prime numbers from 1 to 10 milions.dll
+C:\Users\User\source\repos\Arrays and Lists\19. Find all prime numbers from 1 to 10 milions\bin\Debug\netcoreapp3.1\19. Find all prime numbers from 1 to 10 milions.pdb
+C:\Users\User\source\repos\Arrays and Lists\19. Find all prime numbers from 1 to 10 milions\obj\Debug\netcoreapp3.1\19. Find all prime numbers from 1 to 10 milions.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Arrays and Lists\19. Find all prime numbers from 1 to 10 milions\obj\Debug\netcoreapp3.1\19. Find all prime numbers from 1 to 10 milions.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays and Lists\19. Find all prime numbers from 1 to 10 milions\obj\Debug\netcoreapp3.1\19. Find all prime numbers from 1 to 10 milions.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays and Lists\19. Find all prime numbers from 1 to 10 milions\obj\Debug\netcoreapp3.1\19. Find all prime numbers from 1 to 10 milions.dll
+C:\Users\User\source\repos\Arrays and Lists\19. Find all prime numbers from 1 to 10 milions\obj\Debug\netcoreapp3.1\19. Find all prime numbers from 1 to 10 milions.pdb

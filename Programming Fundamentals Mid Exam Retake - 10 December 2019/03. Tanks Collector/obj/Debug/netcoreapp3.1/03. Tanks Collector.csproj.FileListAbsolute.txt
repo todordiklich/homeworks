@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Programming Fundamentals Mid Exam Retake - 10 December 2019\03. Tanks Collector\bin\Debug\netcoreapp3.1\03. Tanks Collector.exe
+C:\Users\User\source\repos\Programming Fundamentals Mid Exam Retake - 10 December 2019\03. Tanks Collector\bin\Debug\netcoreapp3.1\03. Tanks Collector.deps.json
+C:\Users\User\source\repos\Programming Fundamentals Mid Exam Retake - 10 December 2019\03. Tanks Collector\bin\Debug\netcoreapp3.1\03. Tanks Collector.runtimeconfig.json
+C:\Users\User\source\repos\Programming Fundamentals Mid Exam Retake - 10 December 2019\03. Tanks Collector\bin\Debug\netcoreapp3.1\03. Tanks Collector.runtimeconfig.dev.json
+C:\Users\User\source\repos\Programming Fundamentals Mid Exam Retake - 10 December 2019\03. Tanks Collector\bin\Debug\netcoreapp3.1\03. Tanks Collector.dll
+C:\Users\User\source\repos\Programming Fundamentals Mid Exam Retake - 10 December 2019\03. Tanks Collector\bin\Debug\netcoreapp3.1\03. Tanks Collector.pdb
+C:\Users\User\source\repos\Programming Fundamentals Mid Exam Retake - 10 December 2019\03. Tanks Collector\obj\Debug\netcoreapp3.1\03. Tanks Collector.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Programming Fundamentals Mid Exam Retake - 10 December 2019\03. Tanks Collector\obj\Debug\netcoreapp3.1\03. Tanks Collector.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Programming Fundamentals Mid Exam Retake - 10 December 2019\03. Tanks Collector\obj\Debug\netcoreapp3.1\03. Tanks Collector.AssemblyInfo.cs
+C:\Users\User\source\repos\Programming Fundamentals Mid Exam Retake - 10 December 2019\03. Tanks Collector\obj\Debug\netcoreapp3.1\03. Tanks Collector.dll
+C:\Users\User\source\repos\Programming Fundamentals Mid Exam Retake - 10 December 2019\03. Tanks Collector\obj\Debug\netcoreapp3.1\03. Tanks Collector.pdb

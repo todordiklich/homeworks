@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Conditional-Statements\figureArea\bin\Debug\netcoreapp3.0\figureArea.exe
+C:\Users\User\source\repos\Conditional-Statements\figureArea\bin\Debug\netcoreapp3.0\figureArea.deps.json
+C:\Users\User\source\repos\Conditional-Statements\figureArea\bin\Debug\netcoreapp3.0\figureArea.runtimeconfig.json
+C:\Users\User\source\repos\Conditional-Statements\figureArea\bin\Debug\netcoreapp3.0\figureArea.runtimeconfig.dev.json
+C:\Users\User\source\repos\Conditional-Statements\figureArea\bin\Debug\netcoreapp3.0\figureArea.dll
+C:\Users\User\source\repos\Conditional-Statements\figureArea\bin\Debug\netcoreapp3.0\figureArea.pdb
+C:\Users\User\source\repos\Conditional-Statements\figureArea\obj\Debug\netcoreapp3.0\figureArea.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Conditional-Statements\figureArea\obj\Debug\netcoreapp3.0\figureArea.AssemblyInfo.cs
+C:\Users\User\source\repos\Conditional-Statements\figureArea\obj\Debug\netcoreapp3.0\figureArea.dll
+C:\Users\User\source\repos\Conditional-Statements\figureArea\obj\Debug\netcoreapp3.0\figureArea.pdb
+C:\Users\User\source\repos\Conditional-Statements\figureArea\obj\Debug\netcoreapp3.0\figureArea.csprojAssemblyReference.cache

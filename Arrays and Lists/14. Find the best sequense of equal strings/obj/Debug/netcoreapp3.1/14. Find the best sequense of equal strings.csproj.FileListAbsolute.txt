@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Arrays and Lists\14. Find the best sequense of equal strings\bin\Debug\netcoreapp3.1\14. Find the best sequense of equal strings.exe
+C:\Users\User\source\repos\Arrays and Lists\14. Find the best sequense of equal strings\bin\Debug\netcoreapp3.1\14. Find the best sequense of equal strings.deps.json
+C:\Users\User\source\repos\Arrays and Lists\14. Find the best sequense of equal strings\bin\Debug\netcoreapp3.1\14. Find the best sequense of equal strings.runtimeconfig.json
+C:\Users\User\source\repos\Arrays and Lists\14. Find the best sequense of equal strings\bin\Debug\netcoreapp3.1\14. Find the best sequense of equal strings.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays and Lists\14. Find the best sequense of equal strings\bin\Debug\netcoreapp3.1\14. Find the best sequense of equal strings.dll
+C:\Users\User\source\repos\Arrays and Lists\14. Find the best sequense of equal strings\bin\Debug\netcoreapp3.1\14. Find the best sequense of equal strings.pdb
+C:\Users\User\source\repos\Arrays and Lists\14. Find the best sequense of equal strings\obj\Debug\netcoreapp3.1\14. Find the best sequense of equal strings.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Arrays and Lists\14. Find the best sequense of equal strings\obj\Debug\netcoreapp3.1\14. Find the best sequense of equal strings.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays and Lists\14. Find the best sequense of equal strings\obj\Debug\netcoreapp3.1\14. Find the best sequense of equal strings.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays and Lists\14. Find the best sequense of equal strings\obj\Debug\netcoreapp3.1\14. Find the best sequense of equal strings.dll
+C:\Users\User\source\repos\Arrays and Lists\14. Find the best sequense of equal strings\obj\Debug\netcoreapp3.1\14. Find the best sequense of equal strings.pdb

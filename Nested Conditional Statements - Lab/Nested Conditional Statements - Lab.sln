@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Nested Conditional Statements - Lab", "Nested Conditional Statements - Lab\Nested Conditional Statements - Lab.fsproj", "{F33D61C6-186A-49F1-A7E7-086132A7842A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F33D61C6-186A-49F1-A7E7-086132A7842A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F33D61C6-186A-49F1-A7E7-086132A7842A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F33D61C6-186A-49F1-A7E7-086132A7842A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F33D61C6-186A-49F1-A7E7-086132A7842A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6DBEBEC-E830-4718-9C23-70A6091FC49D}
+	EndGlobalSection
+EndGlobal

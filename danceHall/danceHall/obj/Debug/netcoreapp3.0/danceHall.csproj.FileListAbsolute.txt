@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\danceHall\danceHall\bin\Debug\netcoreapp3.0\danceHall.exe
+C:\Users\User\source\repos\danceHall\danceHall\bin\Debug\netcoreapp3.0\danceHall.deps.json
+C:\Users\User\source\repos\danceHall\danceHall\bin\Debug\netcoreapp3.0\danceHall.runtimeconfig.json
+C:\Users\User\source\repos\danceHall\danceHall\bin\Debug\netcoreapp3.0\danceHall.runtimeconfig.dev.json
+C:\Users\User\source\repos\danceHall\danceHall\bin\Debug\netcoreapp3.0\danceHall.dll
+C:\Users\User\source\repos\danceHall\danceHall\bin\Debug\netcoreapp3.0\danceHall.pdb
+C:\Users\User\source\repos\danceHall\danceHall\obj\Debug\netcoreapp3.0\danceHall.csprojAssemblyReference.cache
+C:\Users\User\source\repos\danceHall\danceHall\obj\Debug\netcoreapp3.0\danceHall.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\danceHall\danceHall\obj\Debug\netcoreapp3.0\danceHall.AssemblyInfo.cs
+C:\Users\User\source\repos\danceHall\danceHall\obj\Debug\netcoreapp3.0\danceHall.dll
+C:\Users\User\source\repos\danceHall\danceHall\obj\Debug\netcoreapp3.0\danceHall.pdb

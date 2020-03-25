@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ConditionalStatements\Godzila vs Kong\bin\Debug\netcoreapp3.0\Godzila vs Kong.exe
+C:\Users\User\source\repos\ConditionalStatements\Godzila vs Kong\bin\Debug\netcoreapp3.0\Godzila vs Kong.deps.json
+C:\Users\User\source\repos\ConditionalStatements\Godzila vs Kong\bin\Debug\netcoreapp3.0\Godzila vs Kong.runtimeconfig.json
+C:\Users\User\source\repos\ConditionalStatements\Godzila vs Kong\bin\Debug\netcoreapp3.0\Godzila vs Kong.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConditionalStatements\Godzila vs Kong\bin\Debug\netcoreapp3.0\Godzila vs Kong.dll
+C:\Users\User\source\repos\ConditionalStatements\Godzila vs Kong\bin\Debug\netcoreapp3.0\Godzila vs Kong.pdb
+C:\Users\User\source\repos\ConditionalStatements\Godzila vs Kong\obj\Debug\netcoreapp3.0\Godzila vs Kong.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConditionalStatements\Godzila vs Kong\obj\Debug\netcoreapp3.0\Godzila vs Kong.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConditionalStatements\Godzila vs Kong\obj\Debug\netcoreapp3.0\Godzila vs Kong.AssemblyInfo.cs
+C:\Users\User\source\repos\ConditionalStatements\Godzila vs Kong\obj\Debug\netcoreapp3.0\Godzila vs Kong.dll
+C:\Users\User\source\repos\ConditionalStatements\Godzila vs Kong\obj\Debug\netcoreapp3.0\Godzila vs Kong.pdb

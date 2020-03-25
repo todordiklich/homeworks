@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Recursion\02. RecursiveNestedLoops\bin\Debug\netcoreapp3.1\02. RecursiveNestedLoops.exe
+C:\Users\User\source\repos\Recursion\02. RecursiveNestedLoops\bin\Debug\netcoreapp3.1\02. RecursiveNestedLoops.deps.json
+C:\Users\User\source\repos\Recursion\02. RecursiveNestedLoops\bin\Debug\netcoreapp3.1\02. RecursiveNestedLoops.runtimeconfig.json
+C:\Users\User\source\repos\Recursion\02. RecursiveNestedLoops\bin\Debug\netcoreapp3.1\02. RecursiveNestedLoops.runtimeconfig.dev.json
+C:\Users\User\source\repos\Recursion\02. RecursiveNestedLoops\bin\Debug\netcoreapp3.1\02. RecursiveNestedLoops.dll
+C:\Users\User\source\repos\Recursion\02. RecursiveNestedLoops\bin\Debug\netcoreapp3.1\02. RecursiveNestedLoops.pdb
+C:\Users\User\source\repos\Recursion\02. RecursiveNestedLoops\obj\Debug\netcoreapp3.1\02. RecursiveNestedLoops.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Recursion\02. RecursiveNestedLoops\obj\Debug\netcoreapp3.1\02. RecursiveNestedLoops.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Recursion\02. RecursiveNestedLoops\obj\Debug\netcoreapp3.1\02. RecursiveNestedLoops.AssemblyInfo.cs
+C:\Users\User\source\repos\Recursion\02. RecursiveNestedLoops\obj\Debug\netcoreapp3.1\02. RecursiveNestedLoops.dll
+C:\Users\User\source\repos\Recursion\02. RecursiveNestedLoops\obj\Debug\netcoreapp3.1\02. RecursiveNestedLoops.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\06. Enumerations\bin\Debug\netcoreapp3.1\06. Enumerations.exe
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\06. Enumerations\bin\Debug\netcoreapp3.1\06. Enumerations.deps.json
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\06. Enumerations\bin\Debug\netcoreapp3.1\06. Enumerations.runtimeconfig.json
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\06. Enumerations\bin\Debug\netcoreapp3.1\06. Enumerations.runtimeconfig.dev.json
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\06. Enumerations\bin\Debug\netcoreapp3.1\06. Enumerations.dll
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\06. Enumerations\bin\Debug\netcoreapp3.1\06. Enumerations.pdb
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\06. Enumerations\obj\Debug\netcoreapp3.1\06. Enumerations.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\06. Enumerations\obj\Debug\netcoreapp3.1\06. Enumerations.AssemblyInfo.cs
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\06. Enumerations\obj\Debug\netcoreapp3.1\06. Enumerations.dll
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\06. Enumerations\obj\Debug\netcoreapp3.1\06. Enumerations.pdb
+C:\Users\User\source\repos\Chapter 11 - Classes and Objects\06. Enumerations\obj\Debug\netcoreapp3.1\06. Enumerations.csprojAssemblyReference.cache

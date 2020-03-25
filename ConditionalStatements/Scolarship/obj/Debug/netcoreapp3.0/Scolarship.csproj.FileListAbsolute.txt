@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ConditionalStatements\Scolarship\bin\Debug\netcoreapp3.0\Scolarship.exe
+C:\Users\User\source\repos\ConditionalStatements\Scolarship\bin\Debug\netcoreapp3.0\Scolarship.deps.json
+C:\Users\User\source\repos\ConditionalStatements\Scolarship\bin\Debug\netcoreapp3.0\Scolarship.runtimeconfig.json
+C:\Users\User\source\repos\ConditionalStatements\Scolarship\bin\Debug\netcoreapp3.0\Scolarship.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConditionalStatements\Scolarship\bin\Debug\netcoreapp3.0\Scolarship.dll
+C:\Users\User\source\repos\ConditionalStatements\Scolarship\bin\Debug\netcoreapp3.0\Scolarship.pdb
+C:\Users\User\source\repos\ConditionalStatements\Scolarship\obj\Debug\netcoreapp3.0\Scolarship.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConditionalStatements\Scolarship\obj\Debug\netcoreapp3.0\Scolarship.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConditionalStatements\Scolarship\obj\Debug\netcoreapp3.0\Scolarship.AssemblyInfo.cs
+C:\Users\User\source\repos\ConditionalStatements\Scolarship\obj\Debug\netcoreapp3.0\Scolarship.dll
+C:\Users\User\source\repos\ConditionalStatements\Scolarship\obj\Debug\netcoreapp3.0\Scolarship.pdb

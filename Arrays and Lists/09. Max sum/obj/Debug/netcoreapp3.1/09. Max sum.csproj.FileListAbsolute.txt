@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Arrays and Lists\09. Max sum\bin\Debug\netcoreapp3.1\09. Max sum.exe
+C:\Users\User\source\repos\Arrays and Lists\09. Max sum\bin\Debug\netcoreapp3.1\09. Max sum.deps.json
+C:\Users\User\source\repos\Arrays and Lists\09. Max sum\bin\Debug\netcoreapp3.1\09. Max sum.runtimeconfig.json
+C:\Users\User\source\repos\Arrays and Lists\09. Max sum\bin\Debug\netcoreapp3.1\09. Max sum.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays and Lists\09. Max sum\bin\Debug\netcoreapp3.1\09. Max sum.dll
+C:\Users\User\source\repos\Arrays and Lists\09. Max sum\bin\Debug\netcoreapp3.1\09. Max sum.pdb
+C:\Users\User\source\repos\Arrays and Lists\09. Max sum\obj\Debug\netcoreapp3.1\09. Max sum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays and Lists\09. Max sum\obj\Debug\netcoreapp3.1\09. Max sum.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays and Lists\09. Max sum\obj\Debug\netcoreapp3.1\09. Max sum.dll
+C:\Users\User\source\repos\Arrays and Lists\09. Max sum\obj\Debug\netcoreapp3.1\09. Max sum.pdb

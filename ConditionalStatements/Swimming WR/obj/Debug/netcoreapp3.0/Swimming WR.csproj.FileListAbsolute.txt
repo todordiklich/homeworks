@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ConditionalStatements\Swimming WR\bin\Debug\netcoreapp3.0\Swimming WR.exe
+C:\Users\User\source\repos\ConditionalStatements\Swimming WR\bin\Debug\netcoreapp3.0\Swimming WR.deps.json
+C:\Users\User\source\repos\ConditionalStatements\Swimming WR\bin\Debug\netcoreapp3.0\Swimming WR.runtimeconfig.json
+C:\Users\User\source\repos\ConditionalStatements\Swimming WR\bin\Debug\netcoreapp3.0\Swimming WR.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConditionalStatements\Swimming WR\bin\Debug\netcoreapp3.0\Swimming WR.dll
+C:\Users\User\source\repos\ConditionalStatements\Swimming WR\bin\Debug\netcoreapp3.0\Swimming WR.pdb
+C:\Users\User\source\repos\ConditionalStatements\Swimming WR\obj\Debug\netcoreapp3.0\Swimming WR.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConditionalStatements\Swimming WR\obj\Debug\netcoreapp3.0\Swimming WR.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConditionalStatements\Swimming WR\obj\Debug\netcoreapp3.0\Swimming WR.AssemblyInfo.cs
+C:\Users\User\source\repos\ConditionalStatements\Swimming WR\obj\Debug\netcoreapp3.0\Swimming WR.dll
+C:\Users\User\source\repos\ConditionalStatements\Swimming WR\obj\Debug\netcoreapp3.0\Swimming WR.pdb

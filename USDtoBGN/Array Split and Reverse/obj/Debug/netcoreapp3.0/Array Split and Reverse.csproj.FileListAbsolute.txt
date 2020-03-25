@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\USDtoBGN\Array Split and Reverse\bin\Debug\netcoreapp3.0\Array Split and Reverse.exe
+C:\Users\User\source\repos\USDtoBGN\Array Split and Reverse\bin\Debug\netcoreapp3.0\Array Split and Reverse.deps.json
+C:\Users\User\source\repos\USDtoBGN\Array Split and Reverse\bin\Debug\netcoreapp3.0\Array Split and Reverse.runtimeconfig.json
+C:\Users\User\source\repos\USDtoBGN\Array Split and Reverse\bin\Debug\netcoreapp3.0\Array Split and Reverse.runtimeconfig.dev.json
+C:\Users\User\source\repos\USDtoBGN\Array Split and Reverse\bin\Debug\netcoreapp3.0\Array Split and Reverse.dll
+C:\Users\User\source\repos\USDtoBGN\Array Split and Reverse\bin\Debug\netcoreapp3.0\Array Split and Reverse.pdb
+C:\Users\User\source\repos\USDtoBGN\Array Split and Reverse\obj\Debug\netcoreapp3.0\Array Split and Reverse.csprojAssemblyReference.cache
+C:\Users\User\source\repos\USDtoBGN\Array Split and Reverse\obj\Debug\netcoreapp3.0\Array Split and Reverse.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\USDtoBGN\Array Split and Reverse\obj\Debug\netcoreapp3.0\Array Split and Reverse.AssemblyInfo.cs
+C:\Users\User\source\repos\USDtoBGN\Array Split and Reverse\obj\Debug\netcoreapp3.0\Array Split and Reverse.dll
+C:\Users\User\source\repos\USDtoBGN\Array Split and Reverse\obj\Debug\netcoreapp3.0\Array Split and Reverse.pdb

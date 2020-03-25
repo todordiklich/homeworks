@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\USDtoBGN\Array Split and take the items which starts with 'B'\bin\Debug\netcoreapp3.0\Array Split and take the items which starts with 'B'.exe
+C:\Users\User\source\repos\USDtoBGN\Array Split and take the items which starts with 'B'\bin\Debug\netcoreapp3.0\Array Split and take the items which starts with 'B'.deps.json
+C:\Users\User\source\repos\USDtoBGN\Array Split and take the items which starts with 'B'\bin\Debug\netcoreapp3.0\Array Split and take the items which starts with 'B'.runtimeconfig.json
+C:\Users\User\source\repos\USDtoBGN\Array Split and take the items which starts with 'B'\bin\Debug\netcoreapp3.0\Array Split and take the items which starts with 'B'.runtimeconfig.dev.json
+C:\Users\User\source\repos\USDtoBGN\Array Split and take the items which starts with 'B'\bin\Debug\netcoreapp3.0\Array Split and take the items which starts with 'B'.dll
+C:\Users\User\source\repos\USDtoBGN\Array Split and take the items which starts with 'B'\bin\Debug\netcoreapp3.0\Array Split and take the items which starts with 'B'.pdb
+C:\Users\User\source\repos\USDtoBGN\Array Split and take the items which starts with 'B'\obj\Debug\netcoreapp3.0\Array Split and take the items which starts with 'B'.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\USDtoBGN\Array Split and take the items which starts with 'B'\obj\Debug\netcoreapp3.0\Array Split and take the items which starts with 'B'.AssemblyInfo.cs
+C:\Users\User\source\repos\USDtoBGN\Array Split and take the items which starts with 'B'\obj\Debug\netcoreapp3.0\Array Split and take the items which starts with 'B'.dll
+C:\Users\User\source\repos\USDtoBGN\Array Split and take the items which starts with 'B'\obj\Debug\netcoreapp3.0\Array Split and take the items which starts with 'B'.pdb
+C:\Users\User\source\repos\USDtoBGN\Array Split and take the items which starts with 'B'\obj\Debug\netcoreapp3.0\Array Split and take the items which starts with 'B'.csprojAssemblyReference.cache

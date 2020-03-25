@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ConditionalStatements\Bonus Points\bin\Debug\netcoreapp3.0\Bonus Points.exe
+C:\Users\User\source\repos\ConditionalStatements\Bonus Points\bin\Debug\netcoreapp3.0\Bonus Points.deps.json
+C:\Users\User\source\repos\ConditionalStatements\Bonus Points\bin\Debug\netcoreapp3.0\Bonus Points.runtimeconfig.json
+C:\Users\User\source\repos\ConditionalStatements\Bonus Points\bin\Debug\netcoreapp3.0\Bonus Points.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConditionalStatements\Bonus Points\bin\Debug\netcoreapp3.0\Bonus Points.dll
+C:\Users\User\source\repos\ConditionalStatements\Bonus Points\bin\Debug\netcoreapp3.0\Bonus Points.pdb
+C:\Users\User\source\repos\ConditionalStatements\Bonus Points\obj\Debug\netcoreapp3.0\Bonus Points.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConditionalStatements\Bonus Points\obj\Debug\netcoreapp3.0\Bonus Points.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConditionalStatements\Bonus Points\obj\Debug\netcoreapp3.0\Bonus Points.AssemblyInfo.cs
+C:\Users\User\source\repos\ConditionalStatements\Bonus Points\obj\Debug\netcoreapp3.0\Bonus Points.dll
+C:\Users\User\source\repos\ConditionalStatements\Bonus Points\obj\Debug\netcoreapp3.0\Bonus Points.pdb

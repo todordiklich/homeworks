@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Regular Expressions - More Exercise\00. Test\bin\Debug\netcoreapp3.1\00. Test.exe
+C:\Users\User\source\repos\Regular Expressions - More Exercise\00. Test\bin\Debug\netcoreapp3.1\00. Test.deps.json
+C:\Users\User\source\repos\Regular Expressions - More Exercise\00. Test\bin\Debug\netcoreapp3.1\00. Test.runtimeconfig.json
+C:\Users\User\source\repos\Regular Expressions - More Exercise\00. Test\bin\Debug\netcoreapp3.1\00. Test.runtimeconfig.dev.json
+C:\Users\User\source\repos\Regular Expressions - More Exercise\00. Test\bin\Debug\netcoreapp3.1\00. Test.dll
+C:\Users\User\source\repos\Regular Expressions - More Exercise\00. Test\bin\Debug\netcoreapp3.1\00. Test.pdb
+C:\Users\User\source\repos\Regular Expressions - More Exercise\00. Test\obj\Debug\netcoreapp3.1\00. Test.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Regular Expressions - More Exercise\00. Test\obj\Debug\netcoreapp3.1\00. Test.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Regular Expressions - More Exercise\00. Test\obj\Debug\netcoreapp3.1\00. Test.AssemblyInfo.cs
+C:\Users\User\source\repos\Regular Expressions - More Exercise\00. Test\obj\Debug\netcoreapp3.1\00. Test.dll
+C:\Users\User\source\repos\Regular Expressions - More Exercise\00. Test\obj\Debug\netcoreapp3.1\00. Test.pdb

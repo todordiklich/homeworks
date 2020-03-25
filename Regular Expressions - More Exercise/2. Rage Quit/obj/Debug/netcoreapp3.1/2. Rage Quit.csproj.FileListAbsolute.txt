@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Regular Expressions - More Exercise\2. Rage Quit\bin\Debug\netcoreapp3.1\2. Rage Quit.exe
+C:\Users\User\source\repos\Regular Expressions - More Exercise\2. Rage Quit\bin\Debug\netcoreapp3.1\2. Rage Quit.deps.json
+C:\Users\User\source\repos\Regular Expressions - More Exercise\2. Rage Quit\bin\Debug\netcoreapp3.1\2. Rage Quit.runtimeconfig.json
+C:\Users\User\source\repos\Regular Expressions - More Exercise\2. Rage Quit\bin\Debug\netcoreapp3.1\2. Rage Quit.runtimeconfig.dev.json
+C:\Users\User\source\repos\Regular Expressions - More Exercise\2. Rage Quit\bin\Debug\netcoreapp3.1\2. Rage Quit.dll
+C:\Users\User\source\repos\Regular Expressions - More Exercise\2. Rage Quit\bin\Debug\netcoreapp3.1\2. Rage Quit.pdb
+C:\Users\User\source\repos\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\netcoreapp3.1\2. Rage Quit.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\netcoreapp3.1\2. Rage Quit.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\netcoreapp3.1\2. Rage Quit.AssemblyInfo.cs
+C:\Users\User\source\repos\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\netcoreapp3.1\2. Rage Quit.dll
+C:\Users\User\source\repos\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\netcoreapp3.1\2. Rage Quit.pdb

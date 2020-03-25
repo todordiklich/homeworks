@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Arrays and Lists\Foreach plus array\bin\Debug\netcoreapp3.1\Foreach plus array.exe
+C:\Users\User\source\repos\Arrays and Lists\Foreach plus array\bin\Debug\netcoreapp3.1\Foreach plus array.deps.json
+C:\Users\User\source\repos\Arrays and Lists\Foreach plus array\bin\Debug\netcoreapp3.1\Foreach plus array.runtimeconfig.json
+C:\Users\User\source\repos\Arrays and Lists\Foreach plus array\bin\Debug\netcoreapp3.1\Foreach plus array.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays and Lists\Foreach plus array\bin\Debug\netcoreapp3.1\Foreach plus array.dll
+C:\Users\User\source\repos\Arrays and Lists\Foreach plus array\bin\Debug\netcoreapp3.1\Foreach plus array.pdb
+C:\Users\User\source\repos\Arrays and Lists\Foreach plus array\obj\Debug\netcoreapp3.1\Foreach plus array.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays and Lists\Foreach plus array\obj\Debug\netcoreapp3.1\Foreach plus array.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays and Lists\Foreach plus array\obj\Debug\netcoreapp3.1\Foreach plus array.dll
+C:\Users\User\source\repos\Arrays and Lists\Foreach plus array\obj\Debug\netcoreapp3.1\Foreach plus array.pdb

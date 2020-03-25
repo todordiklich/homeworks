@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Arrays and Lists\05. Increasing row\bin\Debug\netcoreapp3.1\05. Increasing row.exe
+C:\Users\User\source\repos\Arrays and Lists\05. Increasing row\bin\Debug\netcoreapp3.1\05. Increasing row.deps.json
+C:\Users\User\source\repos\Arrays and Lists\05. Increasing row\bin\Debug\netcoreapp3.1\05. Increasing row.runtimeconfig.json
+C:\Users\User\source\repos\Arrays and Lists\05. Increasing row\bin\Debug\netcoreapp3.1\05. Increasing row.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays and Lists\05. Increasing row\bin\Debug\netcoreapp3.1\05. Increasing row.dll
+C:\Users\User\source\repos\Arrays and Lists\05. Increasing row\bin\Debug\netcoreapp3.1\05. Increasing row.pdb
+C:\Users\User\source\repos\Arrays and Lists\05. Increasing row\obj\Debug\netcoreapp3.1\05. Increasing row.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Arrays and Lists\05. Increasing row\obj\Debug\netcoreapp3.1\05. Increasing row.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays and Lists\05. Increasing row\obj\Debug\netcoreapp3.1\05. Increasing row.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays and Lists\05. Increasing row\obj\Debug\netcoreapp3.1\05. Increasing row.dll
+C:\Users\User\source\repos\Arrays and Lists\05. Increasing row\obj\Debug\netcoreapp3.1\05. Increasing row.pdb
